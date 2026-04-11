@@ -1,4 +1,4 @@
-# 🔍 Image Captioning — Encoder-Decoder with Bahdanau Attention
+# 🔍 Image Captioning : Encoder-Decoder with Bahdanau Attention
 
 Gradio web app for image captioning with live per-word attention heatmap visualisation.
 Custom CNN + LSTMCell + Bahdanau Attention, trained from scratch on Flickr8k.
@@ -8,6 +8,12 @@ Custom CNN + LSTMCell + Bahdanau Attention, trained from scratch on Flickr8k.
 - **Attention**: Bahdanau (additive) — decoder queries each spatial location at every step
 - **Decoder**: LSTMCell conditioned on attended context vector
 - **Attention viz**: Matplotlib overlays rendered per word after caption is generated
+
+
+## Interface Screenshots
+![Interface Screenshot](.Screenshots/interface1.png)
+![Interface Screenshot](.Screenshots/interface2.png)
+
 
 ## Setup & Run
 
