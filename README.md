@@ -12,8 +12,8 @@ Custom CNN + LSTMCell + Bahdanau Attention, trained from scratch on Flickr8k.
 
 ## Interface Screenshots
 
-![Interface Screenshot 1](.Screenshots/interface1.png)
-![Interface Screenshot 2](.Screenshots/interface2.png)
+![Interface Screenshot 1](./Screenshots/interface1.png)
+![Interface Screenshot 2](./Screenshots/interface2.png)
 
 
 ## Setup & Run
