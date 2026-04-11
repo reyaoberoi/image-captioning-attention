@@ -1,0 +1,7 @@
+{
+  "model": "EncoderDecoder_Attention",
+  "test_loss": 2.9847,
+  "test_ppl": 19.78,
+  "bleu1": 23.22,
+  "bleu4": 1.63
+}
